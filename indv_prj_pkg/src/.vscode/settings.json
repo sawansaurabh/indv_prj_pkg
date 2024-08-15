@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sawan/ros2_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/sawan/ros2_ws/install/unity_robotics_demo/lib/python3.10/site-packages",
+        "/home/sawan/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/sawan/ros2_ws/install/interfaces_indv_prj_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sawan/ros2_ws/install/unity_robotics_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/sawan/ros2_ws/install/unity_robotics_demo/lib/python3.10/site-packages",
+        "/home/sawan/ros2_ws/install/ros_tcp_endpoint/lib/python3.10/site-packages",
+        "/home/sawan/ros2_ws/install/interfaces_indv_prj_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

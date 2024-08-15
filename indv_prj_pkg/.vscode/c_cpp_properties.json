@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sawan/ros2_ws/install/unity_robotics_demo_msgs/include/**",
+        "/home/sawan/ros2_ws/install/interfaces_indv_prj_pkg/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/sawan/ros2_ws/src/indv_prj_pkg/include/**",
+        "/home/sawan/ros2_ws/src/interfaces_indv_prj_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
